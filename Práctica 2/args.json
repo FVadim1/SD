@@ -1,0 +1,49 @@
+{
+  "db":[
+    {
+      "SERVIDOR_IP" : "172.17.0.1",
+      "USUARIO" : "root",
+      "CONTRASENYA" : "root",
+      "BASE_DE_DATOS" : "root"
+    }
+  ],
+  "AA_Registry":[
+    {
+    "puerto_escucha":8103,
+    "ip": "localhost"
+    }
+  ],
+  "AA_Engine":[
+    {
+    "puerto_escucha":8201,
+    "max_jugadores":4,
+    "ip": "localhost",
+    "consumidor_timeout":60000
+    }
+  ],
+  "AA_Weather":[
+    {
+    "puerto_escucha":8300,
+    "ip": "localhost"
+    }
+  ],
+  "AA_Player":[
+    {
+    "consumidor_timeout":60000
+
+    }
+  ],
+  "otros":[
+    {
+    "puerto_kafka":"9092",
+    "ip_kafka": "localhost"
+
+    }
+  ],
+  "topicos":[
+    {
+    "topico_partida":"partida"
+    }
+  ]
+
+}
