@@ -1,2 +1,2 @@
-# SD
- 3º. Obligatoria. Python,Kafka,Dockers
+## Sistemas Distribuidos
+![Screenshot](py.jpg)
