@@ -1,2 +1,2 @@
 ## Sistemas Distribuidos
-![Screenshot](py.jpg)
+![Screenshot](py.jpeg)
